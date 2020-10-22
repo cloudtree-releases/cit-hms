@@ -1,2 +1,2 @@
 # cit-hms
-Cloudtree Hospital Management System
+Cloudtree Hospital Management Solution
