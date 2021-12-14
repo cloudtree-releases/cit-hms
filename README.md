@@ -1,2 +1,2 @@
 # cit-hms
-Cloudtree Hospital Management Solution
+Cloudtree Innovative Technologies (CIT) Hospital Management Solution (HMS)
